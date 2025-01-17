@@ -8,9 +8,9 @@ Fields: Gender, Age, Occupation, Physical activity level, stress level, BMI, sle
 
 Research Questions
 -
-Q1) How does the physical activity level influence sleep quality and duration?
-Q2) Is there any relationship between stress levels and likelihood of having a sleep disorder?
-Q3) What are the common characteristics (age, BMI, heart rate, etc.) of individuals with sleep disorders compared to those without?
+- Q1) How does the physical activity level influence sleep quality and duration?
+- Q2) Is there any relationship between stress levels and likelihood of having a sleep disorder?
+- Q3) What are the common characteristics (age, BMI, heart rate, etc.) of individuals with sleep disorders compared to those without?
 
 Data Preprocessing and Analysis: 
 -
